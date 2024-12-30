@@ -1,0 +1,14 @@
+﻿  Allocators.cpp
+S:\Game Projects\u1537456\HeapManager\HeapManager\Allocators.cpp(72,15): warning C4565: 'malloc': redefinition; the symbol was previously declared with __declspec(restrict)
+S:\Game Projects\u1537456\HeapManager\HeapManager\Allocators.cpp(72,15): warning C4273: 'malloc': inconsistent dll linkage
+      S:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(101,15):
+      see previous definition of 'malloc'
+  
+S:\Game Projects\u1537456\HeapManager\HeapManager\Allocators.cpp(87,14): warning C4273: 'free': inconsistent dll linkage
+      S:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(89,14):
+      see previous definition of 'free'
+  
+  MemorySystem.cpp
+  Generating Code...
+     Creating library S:\Game Projects\u1537456\HeapManager\x64\Debug\HeapManager.lib and object S:\Game Projects\u1537456\HeapManager\x64\Debug\HeapManager.exp
+  HeapManager.vcxproj -> S:\Game Projects\u1537456\HeapManager\x64\Debug\HeapManager.exe
